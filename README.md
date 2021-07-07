@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devineni-nani
+- 👋 Hi, I’m @devineni
 - 👀 I’m interested in containarization,devops,cloud,automation
 - 🌱 I’m currently learning Automation
 - 📫 How to reach me mail2devineni94@gmail.com
